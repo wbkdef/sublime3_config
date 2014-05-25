@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"LaTeXing",
+		"Origami",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter"
+	]
+}
